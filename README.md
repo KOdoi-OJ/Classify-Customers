@@ -1,4 +1,4 @@
-# Project Details: Classify Customers
+# Project Details: Predicting Default Risk
 ## Project Overview
 This is project 4 of Udacity's Predictive Analytics Nanodegree.
 
